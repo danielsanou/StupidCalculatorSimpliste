@@ -1,0 +1,3 @@
+StupidCalculator_UltraSimpliste
+===============================
+simple
